@@ -1,0 +1,15 @@
+.container-fluid-header{
+    margin: 0px;
+    height: 250px;
+    padding-top: 5%;
+    text-align: center;
+    background:rgb(46, 45, 45);
+    color: white;
+}
+
+h1{
+    font-weight: 500;
+}
+#header-p p{
+    color: rgba(255, 254, 254, 0.473);;
+}

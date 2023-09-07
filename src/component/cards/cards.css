@@ -1,0 +1,36 @@
+.badge.bg-dark{
+    color: white;
+    position: absolute;
+    top: 0.5rem; 
+    right: 0.5rem;
+}
+
+.cards{
+    justify-content: center;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+}
+
+.card{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.card-text{
+    color: black;
+}
+
+#cart-btn-add{
+    width: 130px;
+    margin-top: 10px; 
+}
+
+#cart-btn-remove{
+    width: 130px;
+    margin-top: 10px;
+}
+
+#strikethrough {
+    text-decoration: line-through;
+}
